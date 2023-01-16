@@ -5,9 +5,11 @@ const Topbar = () => {
   return (
     <div className="topbarContainer">
       <div className="topbarLeft">
-        <span>Hamburger</span>
+        <span className="ham">Hamburger</span>
       </div>
-      <div className="topbarCenter">GALLERY</div>
+      <div className="topbarCenter">
+        <div className="topbarLogo">GALLERY</div>
+      </div>
       <div className="topbarRight">
         <div className="topbarIcons">
           <div className="topbarIconItem">

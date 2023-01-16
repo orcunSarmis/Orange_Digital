@@ -7,3 +7,26 @@
     position: sticky;
     top: 0;
 }
+
+.ham {
+    cursor: pointer;
+}
+
+.topbarLeft {
+    flex: 1;
+}
+
+.topbarLogo {
+    font-size: 24px;
+    margin-left: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.topbarCenter {
+    flex: 1;
+}
+
+.topbarRight {
+    flex: 1;
+}
