@@ -1,9 +1,9 @@
-
+import Gallery from "./pages/Gallery";
 
 function App() {
   return (
     <div className="">
-      hey hey
+      <Gallery />
     </div>
   );
 }
