@@ -1,5 +1,6 @@
 import './Gallery.css';
 
+
 const Gallery = () => {
     return <h1>Then</h1>;
 }
